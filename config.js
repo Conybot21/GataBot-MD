@@ -12,9 +12,9 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['59822228462', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾', true],
+  ['56985527699', '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩 🤖🖤', true],
+  ['56990567073', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['56985527699', '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤', true],
   ['59894808483'],
   ['584125778026'],
   ['5492266613038'],
@@ -29,7 +29,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'] 
+global.prems = ['56985527699'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -101,7 +101,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
+['18059196237', '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['5214531106422', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
@@ -112,15 +112,15 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤'
+global.author = '𝘾𝙤𝙣𝙣𝙮🤖🖤'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -173,13 +173,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤 : 𝘾𝙤𝙣𝙣𝙮🤖🖤'
+global.igfg = '𝘾𝙤𝙣𝙣𝙮𝘽𝙤𝙩🤖🖤'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '56985527699'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
